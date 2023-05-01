@@ -1,7 +1,7 @@
 # Demo
 
-This is my first project and introduction to Github
+First attempt - Success!
 
 ## Subheader
 
-Watch this brilliant tuturial by FreeCodeCamo
+Watch this brilliant tuturial by Kads!
